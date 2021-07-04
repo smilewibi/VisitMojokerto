@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Visit Mojokerto</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="my_name">Ismail Wibi Wicaksono</string>
+    <string name="my_email">wibidjokam@gmail.com</string>
+
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="wisata_rate">Rate Wisata</string>
+    <string name="wisata_detail">Detail Wisata</string>
+    <string name="wisata_overview">Deskripsi</string>
+
+    <string name="title_detail">Lokasi \nKecamatan \nKab/Kota \nProvinsi \nJam Operasional \nHarga </string>
+    <string name="title_about_detail">Contact Person \n \nInstagram \nLinkedIn \n \nDicoding \n </string>
+    <string name="about_detail">\n \n@smile_wibi \nhttps://www.linkedin.com/in/ismail-wibi-wicaksono-54a0b1172/  \nhttps://www.dicoding.com/users/smilewibi </string>
+    <string name="content_overview">Content Overview</string>
+    <string name="content_detail">Content Detail</string>
+</resources>
